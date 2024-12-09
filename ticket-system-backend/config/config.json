@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Pass@123",
+    "database": "ticket_system",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Pass@123",
+    "database": "ticket_system",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Pass@123",
+    "database": "ticket_system",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
